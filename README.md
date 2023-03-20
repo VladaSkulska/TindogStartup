@@ -1,3 +1,3 @@
 # TindogStartup
 
-Website for startup. HTML and CSS
+Website for startup. HTML and CSS, Bootstrap
